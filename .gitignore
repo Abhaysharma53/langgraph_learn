@@ -1,0 +1,11 @@
+.env
+test.ipynb
+*.pyc
+__pycache__/    
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+env_*
+*.log
+.env
