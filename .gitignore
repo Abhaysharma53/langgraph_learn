@@ -6,6 +6,6 @@ __pycache__/
 *.pyd
 *.db
 *.sqlite3
-env_*
+env_learn
 *.log
 .env
